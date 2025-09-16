@@ -1,1 +1,27 @@
-backgroung
+body{ color: white;
+    background-color:rgb(22, 2, 2);
+    padding-left: 5cm; padding-right: 5cm;
+    } 
+        .lead{font-family: "Nunito", sans-serif; padding-top: 1cm;}
+        .second{font-family: "Epunda Sans", sans-serif; font-size: 22px;}
+        .follow{font-family: "Epunda Sans", sans-serif; font-size: 16px;}
+        .talk{background-color: red; text-decoration-line: none; border-radius: 2cm; padding: .4cm; font-size: .7cm; color: white; font-family: Calibri;} 
+        .sans{font-family: sans-serif;}
+        #whitelink1{color: white;}
+        #whitelink1:hover{color: gold;}
+        #whitelink2{color: white; text-transform: uppercase; text-decoration: none;} 
+        #whitelink2:hover{color: gold;}
+        #yellowlink1{color: palegoldenrod;}
+        #yellowlink1:hover{color: gold; text-decoration: none;}
+        #yellowlink2{color: palegoldenrod;text-decoration: none;}
+        #yellowlink2:hover{color: gold; text-decoration: none;}
+        #circlelink{color: white; background: none; width: 4cm; border-color: grey; border-radius: .8cm; padding: .2cm;margin: .1cm;  font-size: .5cm; font-family: "JetBrains Mono", monospace;}
+        #circlelink:hover{color: black; background-color: blanchedalmond;}
+        #circlelink:active{color: black; background-color: gold;}
+
+        hr{border: 1px solid grey;}
+
+        h2:hover{color: gold;}
+        .centerp{text-align: center;}
+        
+        
